@@ -1,7 +1,6 @@
 # 🎵 Spotify Basic Clone 🎵
 
 This is a simple Spotify clone created using HTML and CSS. It replicates some of the basic features and layout of the Spotify web application.
-🚀 Access website here ➡️ [Spotify Clone Demo](https://lordbakyarou.github.io/Spotify-clone/)
 
 ## Table of Contents 📜
 
@@ -27,13 +26,7 @@ Welcome to the grooviest project in town! 🕺💃 This project is a basic clone
 
 ## Getting Started 🚀
 
-Let's get this party started on your local machine! 🎉
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/lordbakyarou/Spotify-clone
-   Open the project folder in your code editor.
+Let's get this party started on your local machine!
 
 Launch the project in a web browser by opening the index.html file.
 
@@ -44,13 +37,3 @@ Once the project is running in your browser, you can use it to:
 📁 Create playlists.
 🎵 Control music playback (Play, Pause, Next, Previous).
 🔊 Adjust volume and device settings.
-
-Contributing 🤝
-We welcome contributions to enhance the functionality and design of this Spotify clone. Let's groove together! 🕺💃 To contribute, please follow these steps:
-
-Fork the repository on GitHub.
-Clone your forked repository to your local machine.
-Make changes and improvements.
-Push your changes to your forked repository.
-Create a pull request to the original repository.
-Let's make this project even more awesome! 🚀🎶🌟
